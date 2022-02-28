@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The astrologers bugg-beare being a briefe discription of many pitthy passages, which were brought to passe upon that day which the astrologers painted out for Black-Monday: whereby wee may all see and know that God's power is beyond mans expectation. Mark well and take notice, it is worth your observation. Written by L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90977</idno>
+            <idno type="STC">Wing P3354</idno>
+            <idno type="STC">Thomason E1351_2</idno>
+            <idno type="STC">ESTC R209385</idno>
+            <idno type="EEBO-CITATION">99868265</idno>
+            <idno type="PROQUEST">99868265</idno>
+            <idno type="VID">169819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169819)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 178:E1351[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The astrologers bugg-beare being a briefe discription of many pitthy passages, which were brought to passe upon that day which the astrologers painted out for Black-Monday: whereby wee may all see and know that God's power is beyond mans expectation. Mark well and take notice, it is worth your observation. Written by L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sicnarf Seloc [i.e. Francis Coles], in the year of the downfall of darke astrology. and are to be sold in country and city, by honest harmlesse people, that love England and 'its friends,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Date of publication and printer's name from Wing.</note>
+                  <note>L.P. = Laurence Price.</note>
+                  <note>With a titlepage woodcut.</note>
+                  <note>Annotation on Thomason copy: "[Illegible] 9 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169819:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>THE Aſtrologers Bugg-beare: Being a briefe Diſcription of many Pitthy Paſſages, which were brought to paſſe upon that day which the Aſtrologers painted out for Black-Monday: Whereby wee may all ſee and know that God's power is beyond mans expectation.</p>
+            <p>Mark well and take notice, it is worth your ob<g ref="char:EOLhyphen"/>ſervation. Written by L. P.</p>
+            <figure/>
+            <p>London Printed for <hi>Sicnarf Seloc,</hi> in the Yeare of the downfall of darke Aſtrology. and are to be ſold in Country and City, by honeſt harmeleſſe people, that love <hi>England</hi> and 'its Friends</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169819:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb facs="tcp:169819:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>The ASTROLOGERS Bugg-Beare.</head>
+            <head type="sub">Being a briefe Deſcription of many pitthy paſſages which was brought to paſſe upon that day which the Aſtrologers painted out for Black Monday.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O Condemne all for ſome mans faults, were too ſevere a matter to work upon; or to give credit
+<pb facs="tcp:169819:3"/>
+                  <!-- PDF PAGE 94 -->to all the reports that are going, were the ready way to be deceived, as may appear by thoſe late Aſtro<g ref="char:EOLhyphen"/>logers, who have bin accounted to be the chiefeſt men for Wiſedom, Knowledge, and Underſtanding that was in all the world beſide; thoſe lines which are here written of them are not written in ſpight nor malice of them, neither doe I ſpeake againſt that which is neceſſary in Aſtro<g ref="char:EOLhyphen"/>nomy.</p>
+               <p>Aſtronomy I hold to be very good and beneficiall, if it be honeſtly, faith<g ref="char:EOLhyphen"/>fully, and reaſonably dealt withall; as for recording what hath bin done in former ages, and to fore-tell the ſeaſons of the yeare, the length of the day, the changes of the Moon, the circle of the Sun, the nature of the Starrs, and the time when is fitting for Bathing, Letting blood, and the like.</p>
+               <pb facs="tcp:169819:3"/>
+               <!-- PDF PAGE 94 -->
+               <p>But I would not have men to un<g ref="char:EOLhyphen"/>dertake to ſtudy ſo far in Aſtrology, whereby to write of matters more then becomes them, as ſome of late have done to their ſhame &amp; diſcredit.</p>
+               <p>Whoſe names I need not to repeat in this diſcourſe, for they have them<g ref="char:EOLhyphen"/>ſelves at large ſet forth their owne Names, as you may read it in ſeverall Almanacks, as <hi>Lilly, Culpepper,</hi> and others, who though in ſome things, yet they all took ayme at one mark, although never a one of their arrowes came to the right place: they all ſpoke of the 29 day of <hi>March,</hi> which ſome of them called Black-Monday; More-over, they reported that it would be a ſad day, a diſmall day, a day of darkneſſe, and ſuch a day that the like had not bin ſince the oldeſt man alive can remember: alſo they fore-told what the effects of that ſorrowfull and dreadfull Eclips of
+<pb facs="tcp:169819:4"/>
+                  <!-- PDF PAGE 95 -->the Sun and the Moone would bring forth, how that Cities ſhould be fi<g ref="char:EOLhyphen"/>red, Towns and Caſtles over-thrown, great Ship-wracks at ſea, Robberies done on the land, and that many fearfull Sickneſſes and Diſeaſes ſhould be amongſt us: ſo that men and women ſhould be ſuddenly ſtricken and fall down dead as they went along the ſtreets: the conſi<g ref="char:EOLhyphen"/>deration of which matter made ma<g ref="char:EOLhyphen"/>ny people of a beliefe, what things ſome of them had written in their Almanacks would prove to be ve<g ref="char:EOLhyphen"/>ry true, nay I am perſwaded that ſome put more confidence in <hi>Lilly,</hi> then they did in God: but now ſee what God can doe to their Sexes: the very day which they had pain<g ref="char:EOLhyphen"/>ted out to be ſuch a diſmall day as is before ſpoken of, fell not out according to their Expectations and Prognoſtications, yet a ſmall Eclips
+<pb facs="tcp:169819:4"/>
+                  <!-- PDF PAGE 95 -->was of the Sun, and did viſibly ap<g ref="char:EOLhyphen"/>peare for a little ſpace, and ſo the day became Faire and Cleare, bleſſed, praiſed, and glorified be the Name of our good God for our delive<g ref="char:EOLhyphen"/>rance.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:169819:5"/>
+               <!-- PDF PAGE 96 -->
+               <head>
+                  <hi>CHAP. II.</hi> Here followeth a briefe Relation of many ſeverall paſſages and ſtrange effects which was done upon the <hi>29</hi> of <hi>March,</hi> this preſent Yeare, <hi>1652.</hi> which the Aſtrologers called Black Monday.</head>
+               <p>AT the conceit of the matter which the Aſtrologers had writ<g ref="char:EOLhyphen"/>ten in their Almanacks concerning the horrible and terrible Eclips of the Sun, bred ſuch Rumours and Feares throughout all the Cities, Townes and Countries in <hi>England,</hi> that men and women were amazed and knew not how to beſtow them<g ref="char:EOLhyphen"/>ſelves nor what to doe, doubting what would come to paſſe; where<g ref="char:EOLhyphen"/>at ſome falling into diſpaire, made
+<pb facs="tcp:169819:5"/>
+                  <!-- PDF PAGE 96 -->ſhort diſpatch and hang'd them<g ref="char:EOLhyphen"/>ſelves, others run mad about the ſtreets, and many came by untimely deaths before the day of of the Eclips came.</p>
+               <p>But when the day of the Eclips was come, in the morning many thouſand of people both in the City of <hi>London</hi> and in the Country were in ſuch feare, that although they had buſineſſe to doe, they durſt not goe about their occaſions, doub<g ref="char:EOLhyphen"/>ting what danger might come upon them.</p>
+               <p>Some there were in <hi>London</hi> which kept faſt their ſhops, their doores, and their windowes, and would nei<g ref="char:EOLhyphen"/>ther buy nor ſell till they had ſeene that the worſt was paſt.</p>
+               <p>Some that were market folkes durſt not goe in the Market to ſell their commodities.</p>
+               <p>Some lay a bed til 2. of the
+<pb facs="tcp:169819:6"/>
+                  <!-- PDF PAGE 97 -->clock in the after-noone faſting, becauſe they durſt not riſe out of their beds to eate their dinners.</p>
+               <p>Among the reſt a gallant young woman that had made promiſe, and was to be married to a Gentleman, durſt not ſtur out of the houſe to goe to the Church, hee having made a vow that he would not be married in any other place; by which meanes ſhe loſt her love and was diſmiſt of her husband, and afterwards wiſht that all the Alma<g ref="char:EOLhyphen"/>nack-makers were hanged for their falſe Predictions.</p>
+               <p>A. Uſurer that was to receive money of a country man that was his debter on that day, durſt not to venter fourth of his houſe; by which meanes the man rid forth of London and paid not in his moneyes, for which cauſe the Uſu<g ref="char:EOLhyphen"/>rer was about to cut his owne
+<pb facs="tcp:169819:6"/>
+                  <!-- PDF PAGE 97 -->throat, and had don it if he had not bin preuented by ſome of his Neighboures.</p>
+               <p>Some other Chriſtians were ſo fearefull of what would befall, that they ſent their maids two dayes before Black-monday for to fetch in faire water in a redyneſſe to waſh, fearing that the ayre would infect the water.</p>
+               <p>Some tooke Medicines, Pils, and Antidotes, which was admi<g ref="char:EOLhyphen"/>niſtred unto them by a ſuppoſed out landiſh, doctor, which he had ſet bils for in ſeverall places, caling his Medicines, an Antidote againſt the tirrible Eclipes of the Sun, ſo he got money, and they went away as wiſe as wood<g ref="char:EOLhyphen"/>cockes; yet their were ſome in London that proved ſtout hearted, and ſaid, that they would neither beleve <hi>Lilly, Culpepper,</hi> nor any other
+<pb facs="tcp:169819:7"/>
+                  <!-- PDF PAGE 98 -->falſe propheſie, but that they would only truſt in God to be their guid and to defend them from all evils, and ſo went through their buſineſſes and praiſed be God they ſpeed never the worſe.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:169819:7"/>
+               <!-- PDF PAGE 98 -->
+               <head>
+                  <hi>CHAP. III.</hi> Thus having told you of many paſſages were done in and about the City of London upon the day that the Astra<g ref="char:EOLhyphen"/>ligers cald Black-monday, J pray you to have the patience to hearken to ſome thing of what was done in the Country.</head>
+               <p>IT is very true, the Country people in many places put ſo much con<g ref="char:EOLhyphen"/>fidence in <hi>Lilly</hi> and <hi>Culpeppers</hi> Alma<g ref="char:EOLhyphen"/>nackes, and monthly obſervations that they beliued every ſyllable that was there written to be true: and therefore vpon Black-monday they would not undertake to do no ma<g ref="char:EOLhyphen"/>ner of buſines, neither would they ſuffer their ſeruants nor Children to goe forth of their doores ſor feare that they ſhould come by ſome
+<pb facs="tcp:169819:8"/>
+                  <!-- PDF PAGE 99 -->ſtrange miſhap to be ſcorch't with the ſun, or to be kild with a Thunder Bolt.</p>
+               <p>Others thought that there would be an Egyptian darkneſſe ouer all the whole land: wherefore the Plowmen durſt not in ſome places to go to plow, the maids were fearefull to go to milking; Carriers and Trauilers were fearefull to paſſe along the rode, nor durſt they that were from home return to their own, tell ſuch time that they had ſeene the danger of the time ouer paſt, which at laſt came to nothing.</p>
+               <p>But prayſed be God we heare of no harm that was done to man, wo<g ref="char:EOLhyphen"/>man, nor child on that day, neither in London nor in the Countryes; and now we may ſee what it is for mortall men to preſume to fortell or to prophiſie of what God wil
+<pb facs="tcp:169819:8"/>
+                  <!-- PDF PAGE 99 -->have done: we may reade in the Scrip<g ref="char:EOLhyphen"/>ture that God is onely true, and all men are lyers; therefore dear friends, I deſire you all to conſider of the matter and never depend upon, nor believe lyers, but ſettle your affections, your hopes, your truſt, and your beleefe, only upon God the Father and his onely Sone our Saviour Jeſus Chriſt, and ſo whea<g ref="char:EOLhyphen"/>ther we live or dye, we ſhall be ſure to doe well. So to conclude I remaine your Servant ſo long as you ſerve God.</p>
+               <closer>
+                  <signed>L. P.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
